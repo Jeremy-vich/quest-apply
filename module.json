@@ -1,0 +1,17 @@
+{
+  "id": "quest-apply",
+  "title": "Quest Apply",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Allows GMs to add people to their group and run multiple games on the same table.",
+  "authors": [
+    {
+      "name": "Yebou",
+      "discord": "yebou",
+      "flags": {}
+    }
+  ]
+}
